@@ -60,8 +60,8 @@ hoping again to see your faces when the Lord opens my way;
 to whose inward word I leave you to be guided in all things.
 Amen.
 
-[.letter-signature]
-Ambrose Rigge.
+[.signed-section-signature]
+Ambrose Rigge
 
-[.letter-context-close]
-Riegate. this 13th day of the Sixth month, 1691.
+[.signed-section-context-close]
+Reigate. this 13th day of the Sixth month, 1691.

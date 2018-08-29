@@ -318,8 +318,8 @@ settle you upon the Rock of ages, in full and perfect unity with God,
 and one with another, in which I bid you all farewell;
 and remain your true friend and brother in the bond of love and peace,
 
-[.letter-signature]
-Ambrose Rigge.
+[.signed-section-signature]
+Ambrose Rigge
 
-[.letter-context-close]
-Riegate in Surrey, the 2nd of the Ninth month, 1693.
+[.signed-section-context-close]
+Reigate in Surrey, the 2nd of the Ninth month, 1693.

@@ -301,8 +301,8 @@ Amen.
 
 I am your brother and fellow servant, in the labor of the gospel of peace,
 
-[.letter-signature]
-Ambrose Rigge.
+[.signed-section-signature]
+Ambrose Rigge
 
-[.letter-context-close]
-Riegate, this 16th day of the Tenth month, 1692.
+[.signed-section-context-close]
+Reigate, this 16th day of the Tenth month, 1692.

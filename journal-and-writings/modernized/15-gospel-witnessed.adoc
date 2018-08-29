@@ -155,8 +155,8 @@ O! let all deeply and weightily consider these things, and lay them to heart,
 before it be too late, and repentance be hid from their eyes!
 Which God grant, through Jesus Christ our Lord, Amen.
 
-[.letter-signature]
-Ambrose Rigge.
+[.signed-section-signature]
+Ambrose Rigge
 
-[.letter-context-close]
-Riegate, the 7th of the Eleventh month, 1702-3.
+[.signed-section-context-close]
+Reigate, the 7th of the Eleventh month, 1702-3.
