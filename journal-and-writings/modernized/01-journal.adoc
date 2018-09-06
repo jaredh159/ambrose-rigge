@@ -87,7 +87,7 @@ yet I was always preserved from gross evils, by him whom I now knew to be my str
 though I had many occasions and provocations thereunto, glory, honor,
 and living praises unto the Lord God, and to the Lamb for evermore.
 
-[discrete.alt]
+[.alt]
 === The Way and Manner of My First Coming to the Knowledge of the Truth, and Way of Peace, Which Had Been the Breathing of My Soul From My Youth.
 
 After my long travail in the night of darkness and ignorance,
@@ -541,7 +541,7 @@ and many were gathered to the Lord, and established in the faith of the gospel.
 [.asterism]
 '''
 
-[discrete.alt]
+[.alt]
 === Robert Pepys, priest of Gatton in Surrey, his false accusations to the justices at the sessions against Ambrose Rigge; a copy whereof follows.
 
 "`This Ambrose is lately come into this parish, from Horsham,
@@ -562,7 +562,7 @@ being a ringleader of sects and schisms.`"
 [.asterism]
 '''
 
-[discrete.alt]
+[.alt]
 === Ambrose Rigge's letter to Robert Pepys.
 
 [.salutation]
@@ -617,7 +617,7 @@ Ambrose Rigge
 [.asterism]
 '''
 
-[discrete.alt]
+[.alt]
 === To the inhabitants of Gatton, in the county of Surrey, and to all others whom it does or may concern.
 
 [.salutation]
